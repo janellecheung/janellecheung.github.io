@@ -1,2 +1,43 @@
+# Site Seetings 
 title: Janelle Cheung
+author: Janelle Cheung 
 theme: jekyll-theme-minimal
+date_format: "%b %-d, %Y"
+
+# Social icons
+github_username: janellecheung
+linkedin_username: janelle-cheung-6bba2a94
+
+text:
+  pagination:
+    newer: "Newer"
+    older: "Older"
+  post:
+    updated: "Updated"
+    minute_read: "minute read"
+    related_posts: "More to read"
+  index:
+    coming_soon: "Coming soon..."
+  og_locale: "en_US"
+
+# Build settings
+markdown: kramdown
+redcarpet:
+  extensions: ["footnotes", "tables", "with_toc_data"]
+permalink: pretty
+paginate: 12
+paginate_path: "/blog/:num/"
+sass:
+  compressed: true
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+# https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]
+
+collections_dir: collections
+collections:
+  reviews:
+    output: true
+  portfolio:
+    output: true
