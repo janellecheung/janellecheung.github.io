@@ -3,3 +3,7 @@ title: Janelle Cheung
 author: Janelle Cheung 
 theme: jekyll-theme-minimal
 logo: /assets/Headshoot.png
+
+markdown: kramdown
+redcarpet:
+  extensions: ["smart", "tables", "with_toc_data", "footnotes"]
