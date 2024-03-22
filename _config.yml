@@ -1,10 +1,14 @@
-# Site Seetings 
-title: Janelle Cheung
-logo: /assets/Headshoot.png
-
+# Site Settings 
 description              : &description "personal website"
 url                      : https://janellecheung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" 
+
+# Biographic information
+author:
+  avatar           : "Headshoot.png"
+  name             : "Janelle"
+  location         : "Canada"
+  email            : "janelle.cheung@alumi.ubc.ca" 
 
 
 markdown: kramdown
