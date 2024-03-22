@@ -5,7 +5,7 @@ baseurl                  : ""
 
 # Biographic information
 author:
-  avatar           : assets/Headshoot.png
+  avatar           : "assets/Headshoot.png"
   name             : "Janelle"
   location         : "Canada"
   email            : "janelle.cheung@alumi.ubc.ca" 
