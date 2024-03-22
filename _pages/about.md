@@ -29,5 +29,5 @@ currently looking for graduate studies.
 |[Particle Movement - Visualization with Python and VMD](https://gitfront.io/r/janellecheung/QHBtzxc8cMTW/Compiled-projects/blob/LJs-fluid/LJfluid.md) | Utilized Python to simulate particles in a box. I analzed the simulation and generate a xyz file to visualize using VMD. |
 |[Predicting and visualization of Ocean acidification](https://gitfront.io/r/janellecheung/QHBtzxc8cMTW/Compiled-projects/blob/Ocean/Ocean.md)| Analyzed ocean data from NOAA and compared machine learning models and look at models to predict ocean acidification |
 
-# 📸 Hobbies 
-As an avid photographer I have photographed my journey around the world. 
+# Hobbies 
+📸 As an avid photographer I have photographed my journey around the world. 
