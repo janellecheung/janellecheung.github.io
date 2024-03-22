@@ -1,6 +1,7 @@
 ---
 title: "Artificial Tree"
-excerpt: "I am using LAMMPS to simulate water cavitation within a cellulose membrane 1<br/><img src='/images/snap0.jpg'>"
+excerpt: "I am using LAMMPS to simulate water cavitation within a cellulose membrane 1<br/><img src='/images/snap0.jpg' width="200" 
+     height="200">"
 collection: portfolio
 ---
 
@@ -9,8 +10,8 @@ I am working on a simulated module where I will be analyzing the properties of w
 
 I am currently simulating the cellulose membrane using Cellulose Iα [^1]. The cellulose[^1] cif file was converted in a lammps data file using OPLS force fields. The water used is TIP4P. The main code used to run the lammp simulation is at [main.lmp](https://gitfront.io/r/janellecheung/QHBtzxc8cMTW/Compiled-projects/tree/Artifical%20Tree/). 
 
-The illustration above is the simulation: two layers of cellulose sandwich between water molecules. 
-
+The illustration below is the simulation: two layers of cellulose sandwich between water molecules. 
+![](/images/snap0.jpg)
 
 ## References 
 [^1]: https://pubs.acs.org/doi/10.1021/ja037055w
