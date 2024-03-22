@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Janelle's Homepage"
+title                    : "Janelle Cheung"
 title_separator          : "-"
 name                     : &name "Janelle"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Headshoot.png"
-  name             : "Janelle Cheung"
+  name             : # Underneath the avatar
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Earth"

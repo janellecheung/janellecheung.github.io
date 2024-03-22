@@ -12,7 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-#  - title: "Blog Posts"
+  - title: "Photography"
+    url: https://photos.app.goo.gl/LG63TciqVXbjNKZY6
 #    url: /year-archive/
     
   - title: "CV"
