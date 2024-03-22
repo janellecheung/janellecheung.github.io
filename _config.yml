@@ -1,8 +1,11 @@
 # Site Seetings 
 title: Janelle Cheung
-author: Janelle Cheung 
-theme: jekyll-theme-minimal
 logo: /assets/Headshoot.png
+
+description              : &description "personal website"
+url                      : https://janellecheung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" 
+
 
 markdown: kramdown
 redcarpet:
