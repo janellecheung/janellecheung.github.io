@@ -10,4 +10,4 @@ I was interested in a quick data analyst project to pratice my skills. I picked 
 
 I tested the hypothesis for correlation between population size and median income using pearon's produce-moment correlation test after transforming the data - finding a positive corrlation. 
 
-I published it on RPubs: https://rpubs.com/janelle_cheung/incomeacrossCanada2021 . 
+I published it on RPubs: [https://rpubs.com/janelle_cheung/incomeacrossCanada2021](https://rpubs.com/janelle_cheung/incomeacrossCanada2021) . 
