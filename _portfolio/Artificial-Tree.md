@@ -1,6 +1,6 @@
 ---
 title: "Artificial Tree"
-excerpt: "I am using LAMMPS to simulate water cavitation within a cellulose membrane 1<br/><img src='/images/snap0.jpg'style='width:100px;height:100px;'> "
+excerpt: "I am using LAMMPS to simulate water cavitation within a cellulose membrane 1<br/><img src='/images/snap0.jpg' style='width:100px;height:100px;'> "
 collection: portfolio
 ---
 
