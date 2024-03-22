@@ -25,7 +25,7 @@ author:
   name             : # Underneath the avatar
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Earth"
+  location         : "Canada"
   employer         : 
   uri              : # URL
   email            : "janelle.cheung@gmail.com" 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "janellecheung"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
